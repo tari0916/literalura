@@ -1,4 +1,3 @@
-# literalura
 # 📚 Proyecto: Gestión de Libros y Autores
 
 ## 🌟 Descripción
